@@ -271,6 +271,25 @@ header.masthead h2 {
   }
 }
 
+.item-title {
+  position: absolute;
+  bottom: 0px;
+  left: 1rem;
+  color: white;
+  text-shadow: 1px 1px 1px #000;
+}
+
+section.buy-button {
+  padding: 0;
+  position: absolute;
+  top: 0;
+  left: 15px;
+}
+
+section.buy-button .btn {
+  border-radius: 0;
+}
+
 .floating-label-form-group {
   position: relative;
   border-bottom: 1px solid #e9ecef;
