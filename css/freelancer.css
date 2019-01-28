@@ -290,6 +290,10 @@ section.buy-button .btn {
   border-radius: 0;
 }
 
+hr.hr-white {
+  background-color: white;
+}
+
 .floating-label-form-group {
   position: relative;
   border-bottom: 1px solid #e9ecef;
